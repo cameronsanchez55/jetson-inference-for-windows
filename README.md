@@ -63,7 +63,7 @@ Follow the [Hello AI World](#hello-ai-world) tutorial for running inference and 
 
 ## Video Walkthroughs
 
-Below are screencasts of Hello AI World that were recorded for the [Jetson AI Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs) course:
+Below are screencasts of Hello AI World that were recorded for the [Jetson AI Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs) course for use with the Jetson board by Nvidia:
 
 | Description                                                                                                                                                                                                                                                                                                        | Video                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
